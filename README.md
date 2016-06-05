@@ -1,0 +1,2 @@
+# AI
+AI is an experiment with using artificial intelligence and genetic algorithms to automatically generate programs in the Brainf**k programming language. Successfully created programs by the AI include: hello world, hello , addition, subtraction, reversing a string, fibonnaci sequence, 99 bottles of beer on the wall, and more. It's getting smarter. In short, it's an AI genetic algorithm implementation with self modifying code.
