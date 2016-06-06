@@ -1,0 +1,12 @@
+*.cache
+*.dll
+*.pdb
+*.suo
+*.exe
+*.exe.config
+*.exe.manifest
+!README.txt
+!lib/*.dll
+*.xml
+Debug/
+Release/
